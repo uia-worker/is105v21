@@ -1,3 +1,3 @@
-public class MultiValApp {
+public class MultiValutaApp {
 
 }
